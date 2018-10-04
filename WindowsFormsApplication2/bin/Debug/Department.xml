@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Class_Para xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnableAxiAdd>300.0</EnableAxiAdd>
+  <Zero>300.1</Zero>
+  <Forward>300.2</Forward>
+  <backward>300.3</backward>
+  <Trigger>300.4</Trigger>
+  <SafeDoor>300.7</SafeDoor>
+  <Reset>300.8</Reset>
+  <Enable>300.9</Enable>
+  <vacuum1>300.10</vacuum1>
+  <vacuum2>300.11</vacuum2>
+  <Differentialcylinder>300.12</Differentialcylinder>
+  <GetPosition>310</GetPosition>
+  <SetSpeed>312</SetSpeed>
+  <GoAimPosition>314</GoAimPosition>
+  <RobotAlarm>301.0</RobotAlarm>
+  <RobotVcuumAlarm>301.1</RobotVcuumAlarm>
+  <CircleAxiAlarm>301.2</CircleAxiAlarm>
+  <SaveDoorAlarm>301.3</SaveDoorAlarm>
+  <SocketRobortAlarm>301.4</SocketRobortAlarm>
+  <vacuum1_Now>301.5</vacuum1_Now>
+  <vacuum2_Now>301.6</vacuum2_Now>
+</Class_Para>

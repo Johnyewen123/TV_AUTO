@@ -1,0 +1,406 @@
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+D:\TV\TV画像\TV_画像上料-软件\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+C:\Users\HY2\Desktop\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+H:\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+C:\Users\HY2\Desktop\软件\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+C:\Users\HY2\Desktop\软件\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+C:\Users\HY2\Desktop\软件\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\HY2\Desktop\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+H:\0727\TV_Software\tv-auto\Tv_software-0626\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\0730调试\0727\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+F:\桌面\工作与学习记录\TV画像\0730调试\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\桌面\工作与学习记录\TV画像\软件—版本\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\软件—版本\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\TV_Software\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\软件—版本\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\tv-auto（程序优化）\Tv_software-0626\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPassward.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormTips.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0814+halcon算法+c#程序\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPassward.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormTips.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPassward.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormTips.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.manifest
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.application
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.manifest
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.application
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0824 - 副本\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.manifest
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.application
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPassward.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLC.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLCAdd.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormTips.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.manifest
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.application
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\软件—版本\0903\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.manifest
+F:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.application
+F:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPassward.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLC.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLCAdd.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormTips.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.manifest
+F:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.application
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.manifest
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.application
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPassward.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLC.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLCAdd.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormTips.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.manifest
+D:\TV\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.application
+H:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+H:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.manifest
+H:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.application
+H:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+H:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+H:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+H:\0927\Tv_software-0814\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPassward.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLC.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLCAdd.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormTips.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.manifest
+H:\0927\Tv_software-0814\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.application
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.manifest
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.application
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCali_brate.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPassward.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLC.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormPLCAdd.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormTips.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.licenses
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe.manifest
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.application
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\0927\0927\Tv_software-0814 -\WindowsFormsApplication2\obj\x86\Debug\TV_Main.csprojResolveAssemblyReference.cache

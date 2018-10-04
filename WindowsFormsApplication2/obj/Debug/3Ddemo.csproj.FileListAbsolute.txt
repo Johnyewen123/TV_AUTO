@@ -1,0 +1,89 @@
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\3Ddemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\Debug\3Ddemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormSocket.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\3Ddemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Avt版本 - 2017-2-21-22-13 - bak - 1956 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormSocket.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\3Ddemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Tv画像\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TIS.Imaging.ICImagingControl34.dll
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormSocket.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\3Ddemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

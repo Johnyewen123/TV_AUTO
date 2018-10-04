@@ -1,0 +1,252 @@
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\Desktop\3D程序模板\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Desktop\2017-程序框架\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+D:\Desktop\3D检测版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Desktop\3D检测版本\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+D:\Desktop\3D检测版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Desktop\3D检测版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\3D检测版本\WindowsFormsApplication2\bin\Debug\FlyCapture2Managed.dll
+D:\Desktop\3D检测版本\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+D:\Desktop\3D检测版本\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Pointgray版本\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\电脑资料8-24\Work\oh-037\新建文件夹\oh-037视觉检测软件框架\Avt版本\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\IPC\Desktop\Avt版本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\IPC\Desktop\Avt版本 - 副本\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\电脑资料8-24\Work\oh-037尺寸测量\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\Avt版本 - 2017-2-21-22-13\Avt版本 - 2017-2-21-22-13\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.CalibrateCoordinate.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+C:\Users\Administrator\Desktop\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csprojResolveAssemblyReference.cache
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.CalibrateCoordinate.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.CalibrateCoordinate.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+D:\TV\TV画像\Tv画像软件\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.CalibrateCoordinate.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+D:\TV\TV_huaxiang\Tv_software\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe.config
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\TV_AutoDectect.pdb
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\halcondotnet.dll
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\bin\Debug\halcondotnet.xml
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.CalibrateCoordinate.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormCameraSetting.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormContactus.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Formlogin.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMain.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormLoading.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormMeausureSet.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSocket.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.FormSystemSetting.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\3Ddemo.csproj.GenerateResource.Cache
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.exe
+F:\桌面\工作与学习记录\TV画像\TV-软件\Tv_software-0612\WindowsFormsApplication2\obj\x86\Debug\TV_AutoDectect.pdb
