@@ -23,6 +23,10 @@ namespace WindowsFormsApplication2
     {
 
 
+	
+	
+	
+	
         /// <summary>
         ///1.D300.0 使能 值：0或1 切换开关
         ///2.D300.1 回原点     值：0或1  自动复位
